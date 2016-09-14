@@ -55,6 +55,7 @@ Like `awesome-hyperterm`? Reach out to me and say *hi* on [Twitter](https://twit
 * [hyperterm-tabs](https://www.npmjs.com/package/hyperterm-tabs) - Rearrange tabs by drag&dropping them
 * [hyperterm-focus-reporting](https://www.npmjs.com/package/hyperterm-focus-reporting) - Adds focus reporting to hyperterm - similar to iterm2.
 * [hyperlinks](https://www.npmjs.com/package/hyperlinks) - Extension for HyperTerm that automatically links URLs.
+* [hyperterm-clicky](https://github.com/capaj/hyperterm-clicky) - Fork of hyperlinks package with extra functionality-links to local files and more!
 * [hyperfull](https://www.npmjs.com/package/hyperfull) - Will start HyperTerm in full screen.
 * [hyperterm-crosshair](https://www.npmjs.com/package/hyperterm-crosshair) - Shows the cursor position with an horizontal and vertical highlight/ruler.
 * [hyperterm-cursor](https://www.npmjs.com/package/hyperterm-cursor) - Allows seeing the char behind your cursor by a color difference.
